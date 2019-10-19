@@ -15,3 +15,6 @@ In a result of the basic program work, the numbers of atoms for each coordinate 
 2. For chosen substance and corresponding parameters (Q,d), calculate the diffusion coefficient at different temperatures, using the distribution of particles along the x-axis figured by the histogram (printed values of the relative concentration C/C0). Enter the searching boundaries of the diffusivity values into the windows Edit with inscriptions D1 and D2 so that the expression (k1-erfc) in the shown procedure changed the sign in these limits. Press the button with inscription Dif b.
 
 ![alt text](https://github.com/UkrRobot/Diffusion/blob/master/Diffusion_Scrn.png)
+
+
+This program was developed under the guidance of Professor A. Ovrutsky.
